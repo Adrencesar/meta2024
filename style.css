@@ -35,3 +35,6 @@ body{
     width: 15%;
     height: 15%;
 }
+.meta{
+  display: flex;
+}
